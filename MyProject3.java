@@ -26,6 +26,8 @@ public class MyProject3 {
         }
         System.out.println("This is new feautre");
         System.out.println("Bruh");
+        System.out.println("Feature 2 Comming soon");
+        System.out.println("NAWWWW");
     }
     
 }
