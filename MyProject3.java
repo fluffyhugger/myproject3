@@ -3,19 +3,23 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package myproject3;
-import java.util.Scanner;
+
 /**
  *
  * @author sirapob
  */
 public class MyProject3 {
+<<<<<<< HEAD
  
     
+=======
+>>>>>>> parent of b70488d (Version1.3)
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+<<<<<<< HEAD
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your name ");
         String name = scanner.nextLine();
@@ -29,6 +33,11 @@ public class MyProject3 {
         System.out.println("Feature 2 Comming soon");
         System.out.println("NAWWWW");
         System.out.println("I think i have to play some again");
+=======
+        // TODO code application logic here
+        System.out.println("Hello World");
+        System.out.println("Hello Ing");
+>>>>>>> parent of b70488d (Version1.3)
     }
     
 }
