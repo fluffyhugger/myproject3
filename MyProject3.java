@@ -28,6 +28,7 @@ public class MyProject3 {
         System.out.println("Bruh");
         System.out.println("Feature 2 Comming soon");
         System.out.println("NAWWWW");
+        System.out.println("I think i have to play some again");
     }
     
 }
