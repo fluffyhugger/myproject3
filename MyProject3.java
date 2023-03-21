@@ -10,8 +10,11 @@ package myproject3;
  */
 public class MyProject3 {
 <<<<<<< HEAD
+<<<<<<< HEAD
  
     
+=======
+>>>>>>> parent of b70488d (Version1.3)
 =======
 >>>>>>> parent of b70488d (Version1.3)
 
@@ -19,6 +22,7 @@ public class MyProject3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+<<<<<<< HEAD
 <<<<<<< HEAD
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your name ");
@@ -33,6 +37,11 @@ public class MyProject3 {
         System.out.println("Feature 2 Comming soon");
         System.out.println("NAWWWW");
         System.out.println("I think i have to play some again");
+=======
+        // TODO code application logic here
+        System.out.println("Hello World");
+        System.out.println("Hello Ing");
+>>>>>>> parent of b70488d (Version1.3)
 =======
         // TODO code application logic here
         System.out.println("Hello World");
